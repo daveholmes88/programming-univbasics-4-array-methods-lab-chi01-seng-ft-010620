@@ -6,17 +6,17 @@ end
 
 def using_sort(array)
   array = ["wow", "I", "am", "really", "learning", "arrays!"]
-  array.sort 
+  array.sort
 end
 
 def using_reverse(array)
   array = ["wow", "I", "am", "really", "learning", "arrays!"]
-  array.reverse 
+  array.reverse
 end
 
 def using_first(array)
   array = ["wow", "I", "am", "really", "learning", "arrays!"]
-  array.first 
+  array.first
 end
 
 def using_last(array)
